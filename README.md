@@ -1,5 +1,5 @@
 # OpenVPN_StartStop.sh
-Adds shell script icon to favourites to connect/disconnect OpenVPN
+Adds shell script icon to favourites to connect/disconnect linux OpenVPN client 
 
 Simple bash script to start/stop OpenVPN. 
 Copy your ovpn profile to install dir.

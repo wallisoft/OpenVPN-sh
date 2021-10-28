@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=INSTALLDIR/ovpn.sh -startup
+Name=OpenVPN Connected
+Comment=OpenVpn Connected
+Icon=INSTALLDIR/ovpn-on.png
+X-Desktop-File-Install-Version=0.26
+

@@ -2,7 +2,7 @@
 
 Adds icon to favourites to connect/disconnect OpenVPN's linux client.
 
-Simple bash script to start/stop OpenVPN. Installer creates an icon in your favorites and adds autostart file. Click icon to toggle connection on/off. Icon colour changes to green when connected. If you are connected at shutdown the script will reconnect at boot.
+Simple bash script to start/stop OpenVPN. The installer adds an icon to your favorites and adds an autostart file. Click the icon to toggle connection on/off. The con colour changes to green when connected. If you are connected at shutdown the script will reconnect at boot.
 
 Right click the icon to browse for your *.ovpn profile
 

@@ -11,7 +11,7 @@ The installation script ovpn-sh_install.sh contains an embedded tarfile with all
 Only tested for Gnu desktop on ubuntu 20.04 but should be fine for any Gnu desktop.
 
 
-OpenVPN's Client package must be installed first from https://openvpn.net . Their linux client is command line only so I wrote this. 
+OpenVPN's Client package must first be installed from https://openvpn.net . Their linux client is command line only so I wrote this. 
 
 
 TODO Add option to edit connection script to enable DCO support for example. Add installer options for alternative desktops.

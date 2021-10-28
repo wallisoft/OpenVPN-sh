@@ -1,6 +1,6 @@
 # OpenVPN-sh.sh
 
-Adds shell script icon to favourites to connect/disconnect linux OpenVPN client 
+Adds shell script icon to favourites to connect/disconnect OpenVPN's linux client.
 
 Simple bash script to start/stop OpenVPN. Creates an icon in your favorites. Click icon to toggle connection on/off. Icon colour changes to green when connected. If you are connected at shutdown the script will reconnect you at boot.
 

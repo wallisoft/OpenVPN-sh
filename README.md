@@ -14,4 +14,4 @@ Only tested for Gnu desktop on ubuntu 20.04 but should be fine for any Gnu deskt
 OpenVPN's Client package must first be installed from https://openvpn.net . Their linux client is command line only so I wrote this. 
 
 
-TODO Add context menu option to edit connection script to enable DCO etc. Add installer config for alternative desktops.
+TODO Add context menu option to edit connection script (enable DCO etc.). Add installer config for alternative desktops.

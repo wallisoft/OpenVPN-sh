@@ -36,7 +36,15 @@ then
              notify-send -i $INSTALLDIR/ovpn-off.png 'OpenVPN Unexpected Error';;
     esac
     exit
+elif [[ ! -f $PROFILE ]]
+then
+
+    #warn if profile not set
+    zenity --error --title "OpenVPN-sh Error" --width 500 --height 100 --text "OpenVPN profile missing. Right click Icon to select one."
+    
+   exit
 fi
+
 
 
 #toggle connect/disconnect

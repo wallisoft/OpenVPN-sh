@@ -14,4 +14,4 @@ OpenVPN's Client package must first be installed from https://openvpn.net . Thei
 
 
 
-TODO Add context menu option to edit connection script (enable DCO etc.). Add installer config for alternative desktops.
+TODO Add context menu option to edit connection script (enable DCO etc.). Add installer config for alternative desktops. Add option for multiple ovpn profiles.
